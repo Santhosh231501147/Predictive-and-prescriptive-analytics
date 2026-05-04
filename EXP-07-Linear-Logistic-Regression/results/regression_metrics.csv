@@ -1,0 +1,4 @@
+model,metric,value
+Linear Regression,RMSE,53.0
+Linear Regression,R2,0.48
+Logistic Regression,Accuracy,0.97

@@ -1,0 +1,13 @@
+Experiment: Data Visualization, Histograms and Variable Summaries
+
+Dataset:
+Synthetic sales analytics dataset
+
+Expected workflow:
+1. Install required Python packages.
+2. Load the dataset or reproducible sample data.
+3. Run the predictive/prescriptive analytics workflow.
+4. Save metrics, tables, and enhanced visualizations under `results/`.
+
+Primary enhanced output image:
+results/visualization_dashboard.png

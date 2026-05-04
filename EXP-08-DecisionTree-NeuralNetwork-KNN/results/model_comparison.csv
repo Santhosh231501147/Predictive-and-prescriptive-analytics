@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1
+Neural Network,0.94,0.95,0.94,0.93

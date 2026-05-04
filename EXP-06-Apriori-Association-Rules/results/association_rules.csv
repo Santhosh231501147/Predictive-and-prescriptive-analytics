@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'milk'}),frozenset({'bread'}),0.5,0.8,1.82

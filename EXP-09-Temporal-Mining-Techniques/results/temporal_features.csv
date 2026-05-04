@@ -1,0 +1,2 @@
+date,demand,rolling_mean,lag_1,lag_12,rolling_std,z_score,is_anomaly
+2019-01-01,120,120,,,0,,False

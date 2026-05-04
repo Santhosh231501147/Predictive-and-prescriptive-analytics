@@ -1,0 +1,5 @@
+metric,value
+raw_skew,2.1
+log_skew,0.2
+train_rows,490
+test_rows,210
